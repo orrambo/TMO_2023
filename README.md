@@ -8,7 +8,10 @@ ___
 
 ### 2. [Лабораторная работа №2.](https://github.com/orrambo/TMO_2023/tree/main/lab2) 
 
-### 2. [Лабораторная работа №3.](https://github.com/orrambo/TMO_2023/tree/main/lab3) 
+### 3. [Лабораторная работа №3.](https://github.com/orrambo/TMO_2023/tree/main/lab3) 
 
+___
+
+### [Рубежный контроль №1.](https://github.com/orrambo/TMO_2023/tree/main/rk1) 
 ___
 ___
