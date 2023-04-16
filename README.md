@@ -12,6 +12,6 @@ ___
 
 ___
 
-### [Рубежный контроль №1.](https://github.com/orrambo/TMO_2023/tree/main/rk1) 
+### 1. [Рубежный контроль №1.](https://github.com/orrambo/TMO_2023/tree/main/rk1) 
 ___
 ___
